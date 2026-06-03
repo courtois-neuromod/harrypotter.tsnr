@@ -3,3 +3,8 @@
 	url = https://github.com/courtois-neuromod/harrypotter.fmriprep
 	datalad-id = e7c71cca-4d8e-4bd1-b8c7-5fe43e44c1b9
 	datalad-url = https://github.com/courtois-neuromod/harrypotter.fmriprep
+[submodule "code"]
+	path = code
+	url = https://github.com/courtois-neuromod/ds_prep
+	datalad-id = 1ea56af2-8e14-11ea-ba71-93977911da7b
+	datalad-url = https://github.com/courtois-neuromod/ds_prep
