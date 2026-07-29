@@ -1,0 +1,1 @@
+79ff3bec-4918-4f35-9205-3e75cad5563d autoenable=true bucket=cneuromod.harrypotter.tsnr chunk=1GiB datacenter=US encryption=none host=s3.unf-montreal.ca name=unfs3.cneuromod.harrypotter.tsnr port=443 protocol=https requeststyle=path storageclass=STANDARD type=S3 timestamp=1785353009s
